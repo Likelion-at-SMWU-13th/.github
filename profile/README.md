@@ -5,7 +5,7 @@
 
 # Likelion at Sookmyung 13th
 
-멋쟁이사자처럼 숙명여자대학교 13기
+멋쟁이사자처럼 대학 숙명여자대학교 13기
 
 [![](https://img.shields.io/badge/SookmyungLikelion-003087?style=flat&logo=nixos&logoColor=white)](http://smwulion.com/) 
 [![](https://img.shields.io/badge/sookmyung@likelion.org-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sookmyung@likelion.org)
@@ -14,7 +14,7 @@
 </div>
 
 ## About Us
-멋쟁이사자처럼은 ‘내 아이디어를 내 손으로 실현한다’라는 가치 아래, 교육 프로그램을 통해 서비스를 개발하는 **웹 개발 동아리** 입니다. <br/>
+[멋쟁이사자처럼 대학](https://likelion.university/)은 ‘내 아이디어를 내 손으로 실현한다’라는 가치 아래, 교육 프로그램을 통해 서비스를 개발하는 **웹 개발 동아리** 입니다. <br/>
 현재, 총 58개의 대학 운영 및 약 2,000여 명이 참가하는 국내 최대 규모 IT 창업 연합 동아리이며 그 중 **숙명여대도 13기에 함께**합니다. <br/>
 
 

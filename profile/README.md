@@ -20,7 +20,8 @@
 
 
 ## Study
-<img src="https://img.shields.io/badge/Figma-5E5E5E?style=flat&logo=figma&logoColor=white" height="24"> <br>
+<img src="https://img.shields.io/badge/Figma-5E5E5E?style=flat&logo=figma&logoColor=white" height="24"> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" height="24">
+<br>
 
 <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white" height="24"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" height="24"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" height="24"> <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" height="24"> <br>
 

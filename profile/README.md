@@ -5,7 +5,7 @@
 
 # Likelion at Sookmyung 13th
 
-숙명여자대학교 멋쟁이사자처럼 13기
+#### 숙명여자대학교 멋쟁이사자처럼 13기
 
 [![](https://img.shields.io/badge/SookmyungLikelion-003087?style=flat&logo=nixos&logoColor=white)](http://smwulion.com/) 
 [![](https://img.shields.io/badge/sookmyung@likelion.org-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sookmyung@likelion.org)

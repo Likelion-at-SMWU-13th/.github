@@ -1,15 +1,14 @@
 <div align="center">
 <a href="https://github.com/Likelion-at-SMWU-13th/smwu-likelion-13th">
-<img width="200px" src="https://github.com/user-attachments/assets/f9cbf4b0-594b-42a2-8dbd-fc72942595b2" alt="숙멋 홈페이지 이동"/>
+<img width="200px" src="https://github.com/user-attachments/assets/2e50ca52-6a01-491b-bb94-17f68b2b32c2" alt="숙멋 홈페이지 이동"/>
 </a>
 
 # Likelion at Sookmyung 13th
 
 #### 숙명여자대학교 멋쟁이사자처럼 13기
-
-[![](https://img.shields.io/badge/SookmyungLikelion-003087?style=flat&logo=nixos&logoColor=white)](http://smwulion.com/) 
-[![](https://img.shields.io/badge/sookmyung@likelion.org-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sookmyung@likelion.org)
-[![](https://img.shields.io/badge/sookmyung_likelion-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sookmyung_likelion/)
+[![](https://img.shields.io/badge/Likelion-Sookmyung-003087?style=flat-square&labelColor=ff9040&logoColor=white)](https://likelion-smwu.com/)
+[![](https://img.shields.io/badge/sookmyung_likelion-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sookmyung_likelion/)
+[![](https://img.shields.io/badge/sookmyung@likelion.org-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sookmyung@likelion.org)
 
 </div>
 

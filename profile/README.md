@@ -25,26 +25,8 @@
 
 
 ## Study
-<div>
-  <img src="https://img.shields.io/badge/Figma-5E5E5E?style=flat&logo=figma&logoColor=white" height="24" alt="Figma" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" height="24" alt="Notion" />
-</div>
+<p><img src="https://img.shields.io/badge/Figma-5E5E5E?style=flat&logo=figma&logoColor=white" height="24" alt="Figma">&nbsp;<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" height="24" alt="Notion"></p>
 
-<br />
+<p><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" height="24" alt="HTML">&nbsp;<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" height="24" alt="CSS">&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="24" alt="JavaScript">&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" height="24" alt="React"></p>
 
-<div>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" height="24" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" height="24" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="24" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" height="24" alt="React" />
-</div>
-
-<br />
-
-<div>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" height="24" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" height="24" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="24" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="24" alt="Django" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" height="24" alt="Amazon AWS" />
-</div>
+<p><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" height="24" alt="Java">&nbsp;<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" height="24" alt="Spring Boot">&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="24" alt="Python">&nbsp;<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="24" alt="Django">&nbsp;<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" height="24" alt="Amazon AWS"></p>
